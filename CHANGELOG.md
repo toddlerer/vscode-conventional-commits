@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.21.4](https://github.com/vivaxy/vscode-conventional-commits/compare/v1.21.3...v1.21.4) (2021-07-24)
+
+### Bug Fixes
+
+- **deps:** update commitlint monorepo to v13 ([5c6f70e](https://github.com/vivaxy/vscode-conventional-commits/commit/5c6f70ef9842432d211e8ef2d6f7d94b640bad0a))
+
 ## [1.21.3](https://github.com/vivaxy/vscode-conventional-commits/compare/v1.21.0...v1.21.3) (2021-06-26)
 
 ## [1.21.2](https://github.com/vivaxy/vscode-conventional-commits/compare/v1.21.0...v1.21.2) (2021-06-26)
